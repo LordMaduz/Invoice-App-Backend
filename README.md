@@ -5,8 +5,9 @@ This is developed with Spring Boot 3.2.5 and requires Java 17 or above.
 
 ## To start:
 ```bash
-./mvnw clean ; ./mvnw clean compile spring-boot:start
-./mvnw spring-boot:stop
+.mvn clean ;
+.mvn clean compile spring-boot:start
+.mvn spring-boot:stop
 ```
 ### To test the functionality head over to the following Swagger endpoint.
 [Swagger URL](http://localhost:8080/swagger-ui/index.html)
