@@ -1,6 +1,6 @@
 # Invoice-App-Backend with Spring Boot
 
-This repository a simple CRUD Operations using H2 Database to interact with a React Application.
+This repository consists of simple CRUD Operations using the H2 Database to interact with a React Application.
 This is developed with Spring Boot 3.2.5 and requires Java 17 or above.
 
 ## To start:
